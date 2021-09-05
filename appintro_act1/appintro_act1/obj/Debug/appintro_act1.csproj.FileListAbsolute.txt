@@ -1,0 +1,10 @@
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\bin\Debug\appintro_act1.exe.config
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\bin\Debug\appintro_act1.exe
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\bin\Debug\appintro_act1.pdb
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\obj\Debug\appintro_act1.csproj.AssemblyReference.cache
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\obj\Debug\appintro_act1.Form1.resources
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\obj\Debug\appintro_act1.Properties.Resources.resources
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\obj\Debug\appintro_act1.csproj.GenerateResource.cache
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\obj\Debug\appintro_act1.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\obj\Debug\appintro_act1.exe
+C:\Users\Raquel Maya\source\repos\appintro_act1\appintro_act1\obj\Debug\appintro_act1.pdb
